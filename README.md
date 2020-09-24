@@ -8,5 +8,5 @@ To use this, put this in `cartfile`:
 
 
 ```
-binary "https://raw.githubusercontent.com/abdulhaq-e/material-components-ios-carthage/master/MaterialComponents.json"
+binary "https://raw.githubusercontent.com/henrikix/material-components-ios-carthage/master/MaterialComponents.json"
 ```
